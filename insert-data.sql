@@ -1,0 +1,13 @@
+\copy category FROM 'category.csv' DELIMITER ',';
+\copy department FROM 'department.csv' DELIMITER ',';
+\copy professor FROM 'professor.csv' DELIMITER ',';
+\copy hod FROM 'hod.csv' DELIMITER ',';
+\copy course FROM 'course.csv' DELIMITER ',';
+\copy prerequisite FROM 'prerequisite.csv' DELIMITER ',';
+\copy classroom FROM 'classroom.csv' DELIMITER ',';
+\copy timeslot FROM 'timeslot.csv' DELIMITER ',';
+\copy section FROM 'section.csv' DELIMITER ',';
+\copy student FROM 'student.csv' DELIMITER ',';
+\copy exam FROM 'exam.csv' DELIMITER ',';
+\copy research_projects FROM 'research_projects.csv' DELIMITER ',';
+\copy takes FROM 'Takes.csv' DELIMITER ',';
